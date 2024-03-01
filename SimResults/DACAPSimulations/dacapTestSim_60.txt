@@ -1,0 +1,8 @@
+DACAP
+seed: 1234
+cbr poisson period: 60
+packet size: 100
+Mean Throughput          : 13.290729499999999
+Packet Delivery Ratio    : 99.065513470523911
+
+
